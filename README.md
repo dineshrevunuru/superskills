@@ -1,4 +1,4 @@
-# dinesh-os
+# superskills
 
 **How I work, encoded as skills.** A curated library of **88 portable `SKILL.md` files** that hold my judgment, research method, and engineering craft as a product designer who builds — so any AI model (including small, cheap ones) performs closer to my standard. It's my personal operating system, opened up: fork it, keep what fits, swap my taste for yours.
 
